@@ -1,5 +1,10 @@
 # Product Search & Recommendation Engine UI
 
+## Team Members Names with ID Numbers:
+1. 2620090092 - Sathvik
+2. 2620080033 - Aryan
+3. 2620030635 - Lohith
+   
 ## Abstract:
 The main objective of this project is to develop a Product Search & Recommendation Engine UI that provides users with a simple,
 efficient, and user-friendly platform to search and discover products. The system allows users to search for products based on keywords,
